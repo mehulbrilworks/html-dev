@@ -1,0 +1,343 @@
+.container{
+    width:1440px;
+    height: 1024px;
+    background: #F2F2F2;
+    
+    
+}
+
+.left-sidebar{
+    position: absolute;
+    width: 132px;
+    height: 1026px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF; 
+}
+
+.create-new{
+    position: absolute;
+    width: 149px;
+    height: 50px;
+    left: 204px;
+    top: 38px;
+
+    background: rgba(216, 235, 255, 0.5);
+    color: #71B1F3;
+}
+
+.top-search{
+    position: absolute;
+    width: 264px;
+    height: 50px;
+    left: 1005px;
+    top: 39px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+    
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+    color: #71B1F3;
+    
+}
+
+.heading-row{
+    position: absolute;
+    width: 1167px;
+    height: 163px;
+    left: 204px;
+    top: 116px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.profile-img{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1283px;
+    top: 39px;
+
+    background: url(image/Office-Girl-icon.png);
+    border-radius: 10px;
+}
+
+.heading-row h3{
+   margin-top: 46px;
+   margin-left: 45px;   
+}
+.heading-row p{
+   font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    margin-left: 45px;
+    margin-bottom: 42px;
+}
+.heading-row span{
+    
+}
+
+.task-complete{
+    position: absolute;
+    width: 366px;
+    height: 77px;
+    left: 201px;
+    top: 303px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.task-complete h4{
+    margin: 27px 0 27px 20px;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 23px;
+    /* identical to box height */
+
+
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.team1{
+    position: absolute;
+    width: 227px;
+    height: 77px;
+    left: 915px;
+    top: 303px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+.team2{
+    
+    position: absolute;
+    width: 205px;
+    height: 77px;
+    left: 1166px;
+    top: 303px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+   
+}
+
+.projects .project1{
+        position: absolute;
+        width: 373px;
+        height: 247px;
+        left: 201px;
+        top: 515px;
+
+        background: #FFFFFF;
+        border-radius: 10px;
+}
+.projects .project1 h5{
+    margin: 66px 154px 15px 24px;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+   
+}
+.projects .project2 h5{
+    margin: 66px 154px 15px 24px;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+   
+}
+.projects .project3 h5{
+    margin: 66px 154px 15px 24px;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+   
+}
+.projects .project4 h5{
+    margin: 66px 154px 15px 24px;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+   
+}
+.projects .project1 p{
+    position: absolute;
+    margin: 12px 24px 99px 24px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+color: rgba(0, 0, 0, 0.5);
+   
+}
+.projects .project2 p{
+    position: absolute;
+    margin: 12px 24px 99px 24px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+color: rgba(0, 0, 0, 0.5);
+   
+}
+.projects .project3 p{
+    position: absolute;
+    margin: 12px 24px 99px 24px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+color: rgba(0, 0, 0, 0.5);
+   
+}
+.projects .project4 p{
+    position: absolute;
+    margin: 12px 24px 99px 24px;
+
+font-family: Circular Std;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 20px;
+/* or 143% */
+color: rgba(0, 0, 0, 0.5);
+   
+}
+.projects .project2{
+        position: absolute;
+        width: 373px;
+        height: 247px;
+        left: 608px;
+        top: 515px;
+
+        background: #FFFFFF;
+        border-radius: 10px;
+}
+.projects .project3{
+       position: absolute;
+        width: 373px;
+        height: 247px;
+        left: 204px;
+        top: 828px;
+
+        background: #FFFFFF;
+        border-radius: 10px;
+}
+.projects .project3{
+        position: absolute;
+        width: 373px;
+        height: 247px;
+        left: 204px;
+        top: 828px;
+
+        background: #FFFFFF;
+        border-radius: 10px;
+}
+.projects .project4{
+        position: absolute;
+        width: 373px;
+        height: 247px;
+        left: 611px;
+        top: 828px;
+
+        background: #FFFFFF;
+        border-radius: 10px;
+}
+.meeting-scedule .scedule1{
+        position: absolute;
+        width: 332px;
+        height: 176px;
+        left: 1017px;
+        top: 515px;
+
+        background: #FFF1D6;
+        border-radius: 10px;
+}
+.meeting-scedule .scedule2{
+        position: absolute;
+        width: 332px;
+        height: 176px;
+        left: 1017px;
+        top: 719px;
+
+        background: #D2E6FF;
+        border-radius: 10px;
+}
+.meeting-scedule .scedule3{
+        position: absolute;
+        width: 332px;
+        height: 176px;
+        left: 1019px;
+        top: 923px;
+
+        background: #FFCDD0;
+        border-radius: 10px;
+}
+
+.meeting-scedule h4{
+    position: absolute;
+    width: 211px;
+    height: 30px;
+    left: 1018px;
+    top: 449px;
+
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.meeting-scedule h5{
+    margin: 20px 127px 144px 21px;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 12px;
+    /* identical to box height, or 75% */
+
+
+    color: #93876F;
+}
+
+.meeting-scedule h5{
+    margin: 20px 127px 144px 21px;
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 12px;
+    /* identical to box height, or 75% */
+
+
+    color: #93876F;
+}
