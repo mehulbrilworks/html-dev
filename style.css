@@ -1,0 +1,57 @@
+.container{
+    width:1170px;
+    margin: 0 auto;
+    background-color: #ccc;
+}
+
+.hero-image{
+    background: url(banner-image.jpg);
+    padding: 155px 0;
+    text-align: center;
+    color: #fff;
+}
+
+.welcome-section{
+    margin-top: 45px;
+}
+
+.right-welcome h3{
+    text-align: center;
+}
+.left-welcome{
+    width: 49%;
+    float: left;
+    border: 1px solid;
+}
+.right-welcome{
+    width: 49%;
+    float: right;
+    border: 1px solid;
+    height: 255px;
+}
+
+.home-services{
+   margin-top: 40px;
+   border:1px solid;
+}
+
+footer{
+    background-color: #666f7d;
+    height: 150px;
+}
+
+.footer-column1{
+    width:30.33%;
+    float: left;
+    margin:15px 15px 15px 15px;
+        
+}
+.footer-column2{
+    width:30.33%;
+    float: left;
+}
+.footer-column3{
+    width:30.33%;
+    float: left;
+    margin-top: 15px;
+}
